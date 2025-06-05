@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartAppManager</string>
+    <string name="blocked_apps">Blocked Apps</string>
+    <string name="save">Save</string>
+</resources>
